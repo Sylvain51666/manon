@@ -1,0 +1,286 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7C27-3716
+
+ Directory of C:\SiteWeb\Manon
+
+11/12/2025  08:26    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          BUILTIN\Administrators ..
+10/12/2025  20:36            20ÿ487 MMPJ\DebrigS           about.html
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           css
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           documents
+10/12/2025  20:36           270ÿ398 MMPJ\DebrigS           favicon.ico
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           fonts
+10/12/2025  20:37             2ÿ358 MMPJ\DebrigS           header.html
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           i18n
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           images
+10/12/2025  20:37            10ÿ917 MMPJ\DebrigS           index.html
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           js
+11/12/2025  08:26                 0 BUILTIN\Administrators list.txt
+10/12/2025  20:36               337 MMPJ\DebrigS           prettierrc
+10/12/2025  20:37            14ÿ993 MMPJ\DebrigS           project.html
+               7 File(s)        319ÿ490 bytes
+
+ Directory of C:\SiteWeb\Manon\css
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:26    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:38            71ÿ236 MMPJ\DebrigS           animate.css
+10/12/2025  20:38           121ÿ216 MMPJ\DebrigS           bootstrap.min.css
+10/12/2025  20:38           542ÿ194 MMPJ\DebrigS           bootstrap.min.css.map
+10/12/2025  20:38            22ÿ321 MMPJ\DebrigS           design.css
+10/12/2025  20:38             1ÿ782 MMPJ\DebrigS           featherlight.gallery.min.css
+10/12/2025  20:38             1ÿ868 MMPJ\DebrigS           featherlight.min.css
+10/12/2025  20:38            23ÿ755 MMPJ\DebrigS           font-awesome.min.css
+10/12/2025  20:38            51ÿ300 MMPJ\DebrigS           ionicons.min.css
+10/12/2025  20:38            12ÿ200 MMPJ\DebrigS           magnific-popup.css
+10/12/2025  20:38             1ÿ820 MMPJ\DebrigS           responsive.css
+10/12/2025  20:38            73ÿ143 MMPJ\DebrigS           style.css
+              11 File(s)        922ÿ835 bytes
+
+ Directory of C:\SiteWeb\Manon\documents
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:26    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:39         2ÿ161ÿ871 MMPJ\DebrigS           CV.pdf
+10/12/2025  20:39         1ÿ096ÿ061 MMPJ\DebrigS           CV_EN.pdf
+               2 File(s)      3ÿ257ÿ932 bytes
+
+ Directory of C:\SiteWeb\Manon\fonts
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:26    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:39            60ÿ767 MMPJ\DebrigS           fontawesome-webfont-.eot
+10/12/2025  20:39            60ÿ767 MMPJ\DebrigS           fontawesome-webfont-v=4.3.0.eot
+10/12/2025  20:39           313ÿ398 MMPJ\DebrigS           fontawesome-webfont-v=4.3.0.svg
+10/12/2025  20:39           122ÿ092 MMPJ\DebrigS           fontawesome-webfont-v=4.3.0.ttf
+10/12/2025  20:39            71ÿ508 MMPJ\DebrigS           fontawesome-webfont-v=4.3.0.woff
+10/12/2025  20:39            56ÿ780 MMPJ\DebrigS           fontawesome-webfont-v=4.3.0.woff2
+10/12/2025  20:39            20ÿ127 MMPJ\DebrigS           glyphicons-halflings-regular-.eot
+10/12/2025  20:39            20ÿ127 MMPJ\DebrigS           glyphicons-halflings-regular.eot
+10/12/2025  20:40           108ÿ738 MMPJ\DebrigS           glyphicons-halflings-regular.svg
+10/12/2025  20:40            45ÿ404 MMPJ\DebrigS           glyphicons-halflings-regular.ttf
+10/12/2025  20:40            23ÿ424 MMPJ\DebrigS           glyphicons-halflings-regular.woff
+10/12/2025  20:40            18ÿ028 MMPJ\DebrigS           glyphicons-halflings-regular.woff2
+10/12/2025  20:40           120ÿ724 MMPJ\DebrigS           ionicons-v=2.0.0.eot
+10/12/2025  20:40           333ÿ834 MMPJ\DebrigS           ionicons-v=2.0.0.svg
+10/12/2025  20:40           188ÿ508 MMPJ\DebrigS           ionicons-v=2.0.0.ttf
+10/12/2025  20:40            67ÿ904 MMPJ\DebrigS           ionicons-v=2.0.0.woff
+              16 File(s)      1ÿ632ÿ130 bytes
+
+ Directory of C:\SiteWeb\Manon\i18n
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:26    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:41             2ÿ476 MMPJ\DebrigS           en.js
+10/12/2025  20:41             2ÿ484 MMPJ\DebrigS           fr.js
+               2 File(s)          4ÿ960 bytes
+
+ Directory of C:\SiteWeb\Manon\images
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:26    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:41           743ÿ016 MMPJ\DebrigS           1BanniereSite.jpg
+10/12/2025  20:41            29ÿ344 MMPJ\DebrigS           artstation_logo_bleu.png
+10/12/2025  20:41         2ÿ266ÿ414 MMPJ\DebrigS           avatar.jpg
+10/12/2025  20:41           310ÿ638 MMPJ\DebrigS           BanniereSite.jpg
+10/12/2025  20:41         8ÿ333ÿ039 MMPJ\DebrigS           BanniereSite.psd
+10/12/2025  20:42               961 MMPJ\DebrigS           Enveloppe.svg
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           hobbies
+10/12/2025  20:42               940 MMPJ\DebrigS           icon_info.svg
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           icon_soft
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           langures
+10/12/2025  20:42               690 MMPJ\DebrigS           left.svg
+10/12/2025  20:42           473ÿ287 MMPJ\DebrigS           OLD_avatar.jpg
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           portfolio
+10/12/2025  20:42               558 MMPJ\DebrigS           Return.svg
+10/12/2025  20:42               693 MMPJ\DebrigS           right.svg
+10/12/2025  20:42               399 MMPJ\DebrigS           user.svg
+              12 File(s)     12ÿ159ÿ979 bytes
+
+ Directory of C:\SiteWeb\Manon\images\hobbies
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:43             2ÿ027 MMPJ\DebrigS           Altere.svg
+10/12/2025  20:43             1ÿ735 MMPJ\DebrigS           ArtsMartiaux.svg
+10/12/2025  20:43             1ÿ216 MMPJ\DebrigS           Croix1.svg
+10/12/2025  20:43               868 MMPJ\DebrigS           Croix2.svg
+10/12/2025  20:43             1ÿ211 MMPJ\DebrigS           Drums.svg
+10/12/2025  20:44    <DIR>          MMPJ\DebrigS           icon_soft
+10/12/2025  20:43             2ÿ406 MMPJ\DebrigS           Paint.svg
+10/12/2025  20:43             1ÿ742 MMPJ\DebrigS           Patte.svg
+10/12/2025  20:43             3ÿ485 MMPJ\DebrigS           Rugby.svg
+10/12/2025  20:43             2ÿ495 MMPJ\DebrigS           Run.svg
+10/12/2025  20:43             3ÿ418 MMPJ\DebrigS           Sewing.svg
+10/12/2025  20:43             4ÿ586 MMPJ\DebrigS           Volley.svg
+              11 File(s)         25ÿ189 bytes
+
+ Directory of C:\SiteWeb\Manon\images\hobbies\icon_soft
+
+10/12/2025  20:44    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+               0 File(s)              0 bytes
+
+ Directory of C:\SiteWeb\Manon\images\icon_soft
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:44            33ÿ013 MMPJ\DebrigS           3DSmax.png
+10/12/2025  20:44            87ÿ069 MMPJ\DebrigS           AfterEffects.jpg
+10/12/2025  20:44             1ÿ180 MMPJ\DebrigS           AfterEffects.svg
+10/12/2025  20:44            68ÿ954 MMPJ\DebrigS           C.png
+10/12/2025  20:44            11ÿ230 MMPJ\DebrigS           Illustrator.png
+10/12/2025  20:44             9ÿ602 MMPJ\DebrigS           InDesign.png
+10/12/2025  20:44            89ÿ686 MMPJ\DebrigS           MentalRay.png
+10/12/2025  20:44            62ÿ869 MMPJ\DebrigS           Photoshop.png
+10/12/2025  20:44            52ÿ655 MMPJ\DebrigS           SubstanceDesigner.png
+10/12/2025  20:44            18ÿ984 MMPJ\DebrigS           SubstancePainter.png
+10/12/2025  20:44            32ÿ615 MMPJ\DebrigS           Unity.png
+10/12/2025  20:44            15ÿ048 MMPJ\DebrigS           Vray.png
+10/12/2025  20:44            30ÿ792 MMPJ\DebrigS           ZBrush.png
+              13 File(s)        513ÿ697 bytes
+
+ Directory of C:\SiteWeb\Manon\images\langures
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:45            13ÿ572 MMPJ\DebrigS           anglais.jpg
+10/12/2025  20:45            14ÿ979 MMPJ\DebrigS           francais.jpg
+               2 File(s)         28ÿ551 bytes
+
+ Directory of C:\SiteWeb\Manon\images\portfolio
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           2d
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           3d
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           icons
+               0 File(s)              0 bytes
+
+ Directory of C:\SiteWeb\Manon\images\portfolio\2d
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           osselait
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           pieuvre
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           renard
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           renardeau
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           stitch
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           tortue
+               0 File(s)              0 bytes
+
+ Directory of C:\SiteWeb\Manon\images\portfolio\2d\osselait
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:46         1ÿ842ÿ976 MMPJ\DebrigS           osselait.jpg
+               1 File(s)      1ÿ842ÿ976 bytes
+
+ Directory of C:\SiteWeb\Manon\images\portfolio\2d\pieuvre
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:47         2ÿ973ÿ969 MMPJ\DebrigS           pieuvre.jpg
+               1 File(s)      2ÿ973ÿ969 bytes
+
+ Directory of C:\SiteWeb\Manon\images\portfolio\2d\renard
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:47           143ÿ702 MMPJ\DebrigS           renard-dessin.jpg
+10/12/2025  20:47         1ÿ019ÿ963 MMPJ\DebrigS           renard.jpg
+               2 File(s)      1ÿ163ÿ665 bytes
+
+ Directory of C:\SiteWeb\Manon\images\portfolio\2d\renardeau
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:48           251ÿ732 MMPJ\DebrigS           renardeau.jpg
+               1 File(s)        251ÿ732 bytes
+
+ Directory of C:\SiteWeb\Manon\images\portfolio\2d\stitch
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:48         1ÿ321ÿ820 MMPJ\DebrigS           stitch.jpg
+               1 File(s)      1ÿ321ÿ820 bytes
+
+ Directory of C:\SiteWeb\Manon\images\portfolio\2d\tortue
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:48         3ÿ130ÿ980 MMPJ\DebrigS           tortue.jpg
+               1 File(s)      3ÿ130ÿ980 bytes
+
+ Directory of C:\SiteWeb\Manon\images\portfolio\3d
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:50         3ÿ802ÿ264 MMPJ\DebrigS           120883-47-ENV-01.jpg
+10/12/2025  20:57         6ÿ323ÿ194 MMPJ\DebrigS           126401-000017-ENV-01.jpg
+10/12/2025  20:57         5ÿ758ÿ467 MMPJ\DebrigS           126401-000047-ENV-01.jpg
+10/12/2025  20:57         5ÿ461ÿ883 MMPJ\DebrigS           152857-000144-ENV-1.jpg
+10/12/2025  20:49         4ÿ226ÿ581 MMPJ\DebrigS           allianzriviera1.jpg
+10/12/2025  20:49         4ÿ641ÿ003 MMPJ\DebrigS           allianzriviera2.jpg
+10/12/2025  20:49         1ÿ124ÿ175 MMPJ\DebrigS           allianzriviera3.jpg
+10/12/2025  20:49           797ÿ754 MMPJ\DebrigS           allianzriviera4.jpg
+10/12/2025  20:49           914ÿ691 MMPJ\DebrigS           barsombre.jpg
+10/12/2025  20:49           430ÿ763 MMPJ\DebrigS           beaujoire1.jpg
+10/12/2025  20:49           789ÿ573 MMPJ\DebrigS           beaujoire2.jpg
+10/12/2025  20:49           658ÿ715 MMPJ\DebrigS           beaujoire3.jpg
+10/12/2025  20:49           671ÿ474 MMPJ\DebrigS           beaujoire4.jpg
+10/12/2025  20:49         3ÿ847ÿ398 MMPJ\DebrigS           cabane.jpg
+10/12/2025  20:49         5ÿ644ÿ747 MMPJ\DebrigS           domesaumur1.jpg
+10/12/2025  20:50        10ÿ752ÿ825 MMPJ\DebrigS           emirates1.jpg
+10/12/2025  20:50        12ÿ658ÿ183 MMPJ\DebrigS           emirates2.jpg
+10/12/2025  20:50         1ÿ074ÿ511 MMPJ\DebrigS           emirates3.jpg
+10/12/2025  20:50           640ÿ241 MMPJ\DebrigS           emirates4.jpg
+10/12/2025  20:50         1ÿ130ÿ698 MMPJ\DebrigS           oldschoollivingroom.jpg
+10/12/2025  20:50         1ÿ968ÿ889 MMPJ\DebrigS           Phare_1.jpg
+              21 File(s)     73ÿ318ÿ029 bytes
+
+ Directory of C:\SiteWeb\Manon\images\portfolio\icons
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  20:58           296ÿ689 MMPJ\DebrigS           allianzriviera_icon.jpg
+10/12/2025  20:58           102ÿ261 MMPJ\DebrigS           barsombre_icon.jpg
+10/12/2025  20:58           170ÿ841 MMPJ\DebrigS           beaujoire_icon.jpg
+10/12/2025  20:58           176ÿ460 MMPJ\DebrigS           cabane_icon.jpg
+10/12/2025  20:58           258ÿ079 MMPJ\DebrigS           domesaumur_icon.jpg
+10/12/2025  20:58           301ÿ577 MMPJ\DebrigS           emirates_icon.jpg
+10/12/2025  20:58           145ÿ975 MMPJ\DebrigS           ldesk_icon.jpg
+10/12/2025  20:57         1ÿ130ÿ698 MMPJ\DebrigS           oldschoollivingroom.jpg
+10/12/2025  20:58           128ÿ557 MMPJ\DebrigS           oldschoollivingroom_icon.jpg
+10/12/2025  20:58           147ÿ348 MMPJ\DebrigS           osselait_icon.jpg
+10/12/2025  20:58           133ÿ917 MMPJ\DebrigS           phare_icon.jpg
+10/12/2025  20:59           217ÿ396 MMPJ\DebrigS           pieuvre_icon.jpg
+10/12/2025  20:59           114ÿ583 MMPJ\DebrigS           renardeau_icon.jpg
+10/12/2025  20:59           171ÿ425 MMPJ\DebrigS           renard_icon.jpg
+10/12/2025  20:57         1ÿ657ÿ137 MMPJ\DebrigS           salonbleu.jpg
+10/12/2025  20:59           173ÿ512 MMPJ\DebrigS           salonbleu_icon.jpg
+10/12/2025  20:59            63ÿ308 MMPJ\DebrigS           star_icon.jpg
+10/12/2025  20:59           125ÿ743 MMPJ\DebrigS           stitch_icon.jpg
+10/12/2025  20:59           203ÿ608 MMPJ\DebrigS           tortue_icon.jpg
+10/12/2025  20:59           157ÿ873 MMPJ\DebrigS           wooddesktop1_icon.jpg
+10/12/2025  20:59           159ÿ835 MMPJ\DebrigS           woodwhitedesk_icon.jpg
+              21 File(s)      6ÿ036ÿ822 bytes
+
+ Directory of C:\SiteWeb\Manon\js
+
+11/12/2025  08:24    <DIR>          MMPJ\DebrigS           .
+11/12/2025  08:26    <DIR>          MMPJ\DebrigS           ..
+10/12/2025  21:00            37ÿ045 MMPJ\DebrigS           bootstrap.min.js
+10/12/2025  21:00            35ÿ445 MMPJ\DebrigS           isotope.pkgd.min.js
+10/12/2025  21:00            96ÿ381 MMPJ\DebrigS           jquery-1.11.0.min.js
+10/12/2025  21:00            60ÿ059 MMPJ\DebrigS           jquery.isotope.min.js
+10/12/2025  21:00            20ÿ216 MMPJ\DebrigS           jquery.magnific-popup.min.js
+10/12/2025  21:00               289 MMPJ\DebrigS           main.js
+10/12/2025  21:01            29ÿ674 MMPJ\DebrigS           projects.js
+10/12/2025  21:00             1ÿ942 MMPJ\DebrigS           search-pop-up.js
+10/12/2025  21:00             2ÿ080 MMPJ\DebrigS           translator.js
+               9 File(s)        283ÿ131 bytes
+
+     Total Files Listed:
+             134 File(s)    109ÿ187ÿ887 bytes
+              62 Dir(s)  405ÿ413ÿ552ÿ128 bytes free
